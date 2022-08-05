@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# To Do App with React and TypeScript (CRUD and drag & drop functionality).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
